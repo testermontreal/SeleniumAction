@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-03T19:47:16 EDT" name="Suite" finished-at="2021-08-03T19:47:34 EDT" duration-ms="18199">
+    <groups>
+    </groups>
+    <test started-at="2021-08-03T19:47:16 EDT" name="Test" finished-at="2021-08-03T19:47:34 EDT" duration-ms="18199">
+      <class name="classAction.DragDropTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:classAction.DragDropTest@28f3b248]" started-at="2021-08-03T19:47:16 EDT" name="setUp" finished-at="2021-08-03T19:47:18 EDT" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dragDrop()[pri:0, instance:classAction.DragDropTest@28f3b248]" started-at="2021-08-03T19:47:18 EDT" name="dragDrop" finished-at="2021-08-03T19:47:20 EDT" duration-ms="1929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDrop -->
+        <test-method signature="dragDrop2()[pri:0, instance:classAction.DragDropTest@28f3b248]" started-at="2021-08-03T19:47:20 EDT" name="dragDrop2" finished-at="2021-08-03T19:47:29 EDT" duration-ms="9642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDrop2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:classAction.DragDropTest@28f3b248]" started-at="2021-08-03T19:47:29 EDT" name="tearDown" finished-at="2021-08-03T19:47:34 EDT" duration-ms="5014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- classAction.DragDropTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
